@@ -1,0 +1,35 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1556151567620'); /* IE9 */
+  src: url('iconfont.eot?t=1556151567620#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP4AAsAAAAACCwAAAOsAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqEEINPATYCJAMMCwgABCAFhG0HOhsZB8geh7HzJBSjvvq2BDcRUGNtT94caGpRm08n/ZBIDMmnW2iETEqUoqHgodpUbrY0VMS36i8xC6lYoAl4mLAV13uKmCZAQLxP3Dttngc2H1BOYy7aixYGGAcU6JiT7EcUGMSUwvBOrA5jMwFVI3xxdpMyCoCWDL0CwrFYSAKtjFFuYARlTbFiYg7ljAF15divdgYAt8HnwzcITguICglg4N5RYhWIeas/a8Ta/rcp9UhANJ0d0jQSlgCZcFDp3IdFkSWYqqHkNqcXZUGcyv//PxAITXmR/OERBUIRILcO5rho5E3PESaqRlZ81aKH615EBXcAeFe1A0MHl7om5uauRho6hvV6WDux+ToIJvATDxEHrtjro8KZgnYLHjFrSeDT5njBFCjqzwyYFTTi8254wZw1nikh2m14xHLbEuWgKbPKqSlzfBoU3phbCnR1SfNZy+J2S2J2xoJP7byZuimydJf7zNoS/RxCIrG7j5eMT7OprlMzeLHZFPlWs6LpaUuP2dmknMyb/YuTNdpBxeWlxT6JRnFjIGPm3kHLUi3HAbtb5dR40sUfYOUITNevX3bxV/JmSf/T4YeSwz+xi6+K9Y0NP5bn6ee9PzTM16jbv4m6vj60/aC64YuzOZOWi0/h2i8sDoxuuRbJ26SyUXeZ+WMCTbICPV22PTHB9Ly0lFBLgWHaIqjUNPXiGm986eIRaJYCTRb9cNF/7LuxfBMktdo47zU0xQbPRnvK7kx8dP/QdrEPDToeOjRen/aOt47btNtqQ3BCPD9o86GNIa6bC8lhoBLwj+6bM421AfC/Px3EYn7wbnZeV6MqDCO+aulyAbw8dzAMKrpnKYtIot9Zllf//w/kI1kCQ8o6v0HN7ZonuaT5svSqxMs/5+26N1w9aOYSlA0miEqGkZRNkTN9CQU1yygq20DVouTpNT0sTMjagAXdDIK29Yia7pG0nSVn+l0UDHmLonYYqvrBdMGamcQ68SxFIqoK8uuhWMAoaGpBOmF+HiWslpFsWhIweRSrEvthkH9gPp5MKSh2iiGqGmEwQjSkWUYOk5jtKJmMgUqWkVAC5C9CSBkWEEBXvclfwMiBjh0sCgmhVIH46kFiAgwF2muM6BSIz0MRqiZDYhtqGrw8FJaKuHUoiL/ADuRkpaJTza1co1JDKBiC0CAaiyEHJTF2ioxEGJCyup0ERQDxJxoQUgoTwNWjuyr9l1fL328TVGFYCmocjMMFlYtqBpHoDtK5KkSyAAA=') format('woff2'),
+  url('iconfont.woff?t=1556151567620') format('woff'),
+  url('iconfont.ttf?t=1556151567620') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1556151567620#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-quotation:before {
+  content: "\e67b";
+}
+
+.icon-star:before {
+  content: "\e60c";
+}
+.icon-liwu:before {
+  content: "\e611";
+}
+
+.icon-user:before {
+  content: "\e647";
+}
+
+.icon-xin:before {
+  content: "\e623";
+}

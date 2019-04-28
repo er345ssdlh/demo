@@ -1,0 +1,387 @@
+.zy-top {
+  margin-top: 100px;
+}
+.zy-top .main h3 {
+  font-size: 24px;
+  font-weight: normal;
+}
+.zy-top .main .p1 {
+  font-size: 13px;
+  color: #878787;
+  margin-top: 20px;
+}
+.zy-top .main .follwer {
+  padding: 28px 0 57px 0;
+}
+.zy-top .zy-content {
+  width: 100%;
+  margin-bottom: 150px;
+}
+.zy-top .zy-content .zy-left {
+  width: 49%;
+  height: 580px;
+  background-color: #F1F1F1;
+  float: left;
+  box-sizing: border-box;
+  padding: 35px 35px;
+}
+.zy-top .zy-content .zy-left .zy-texttop {
+  padding: 0 9px;
+}
+.zy-top .zy-content .zy-left .zy-texttop h4 {
+  font-size: 22px;
+  font-weight: normal;
+  margin-top: 42px;
+}
+.zy-top .zy-content .zy-left .zy-texttop p {
+  color: #878787;
+  font-size: 16px;
+  margin-top: 16px;
+  line-height: 22px;
+}
+.zy-top .zy-content .zy-left .zy-imgbommom {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+  width: 100%;
+}
+.zy-top .zy-content .zy-left .zy-imgbommom div {
+  width: 30%;
+}
+.zy-top .zy-content .zy-left .zy-imgbommom div img {
+  width: 100%;
+}
+.zy-top .zy-content .zy-right {
+  width: 49%;
+  height: 580px;
+  box-sizing: border-box;
+  background-color: #F1F1F1;
+  float: right;
+  position: relative;
+  overflow: hidden;
+}
+.zy-top .zy-content .zy-right .swiper {
+  height: 1740px;
+  position: absolute;
+  top: 0;
+}
+.zy-top .zy-content .zy-right .swiper img {
+  width: 100%;
+  height: 580px;
+}
+.zy-top .zy-content .zy-right .zy-conpos {
+  width: 60%;
+  height: 67px;
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translate(-50%);
+  display: flex;
+}
+.zy-top .zy-content .zy-right .zy-conpos div {
+  flex: 1;
+  border: 1px solid #8b432D;
+  border-collapse: collapse;
+}
+.zy-top .zy-content .zy-right .zy-conpos div P:nth-child(1) {
+  color: black;
+  font-weight: 700;
+  margin: 10px 0 5px 0;
+}
+.zy-top .zy-content .zy-right .zy-conpos div P:nth-child(2) {
+  color: #B57C5E;
+  font-weight: 700;
+}
+.zy-top .zy-content .zy-right .zy-rigpos {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translate(-50%);
+  width: 45px;
+  height: 90px;
+  font-size: 12px;
+}
+.zy-top .zy-content .zy-right .zy-rigpos div {
+  width: 45px;
+  height: 44px;
+  border: 1px solid#8b432D;
+}
+.zy-top .zy-content .zy-right .zy-rigpos div a {
+  display: block;
+  height: 44px;
+  line-height: 44px;
+}
+.zy-top .zy-content .zy-right .zy-p {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translate(-50%);
+}
+.zy-top .zy-content .zy-right .zy-p a {
+  color: #444;
+}
+.zy-top .zy-content .zy-zjconpos {
+  display: none;
+}
+.zy-peop {
+  width: 100%;
+  background-color: #FBFBFB;
+  overflow: hidden;
+}
+.zy-peop .main h2 {
+  font-size: 28px;
+  font-weight: 400;
+  margin-top: 100px;
+}
+.zy-peop .main p {
+  font-size: 13px;
+  margin: 20px 0;
+  color: #838383;
+}
+.zy-peop .main .zy-window {
+  width: 100%;
+  max-width: 1140px;
+  text-align: center;
+  position: relative;
+  height: 500px;
+}
+.zy-peop .main .zy-window .zy-carousel {
+  position: absolute;
+  width: 100%;
+}
+.zy-peop .main .zy-window .zy-carousel .zy-item {
+  width: 100%;
+  height: 500px;
+  padding: 0 150px;
+  box-sizing: border-box;
+  float: left;
+}
+.zy-peop .main .zy-window .zy-carousel .zy-item span.zy-topspan {
+  display: block;
+  margin: 150px auto 25px;
+  font-size: 22px;
+  color: #B57C5E;
+}
+.zy-peop .main .zy-window .zy-carousel .zy-item p:nth-child(2) {
+  font-size: 16px;
+  color: #4C4C4C;
+  font-style: italic;
+  font-weight: 500;
+}
+.zy-peop .main .zy-window .zy-carousel .zy-item span.zy-bomspan {
+  color: goldenrod;
+}
+.zy-peop .main .zy-window .zy-carousel .zy-item p:nth-child(6) {
+  font-size: 13px;
+  color: #4C4C4C;
+  font-style: normal;
+  font-weight: 500;
+}
+.zy-peop .main .zy-window .zy-carousel .zy-item p:nth-child(7) {
+  font-size: 13px;
+  color: #B37B65;
+  font-style: normal;
+  font-weight: 500;
+}
+.zy-peop .main .zy-window .zy-carousel .zy-item img {
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+}
+.Latest {
+  margin-bottom: 100px;
+}
+.Latest .main h2 {
+  margin-top: 150px;
+  font-size: 25px;
+  color: #353535;
+}
+.Latest .main .p1 {
+  font-size: 16px;
+  margin: 15px 0;
+  color: #4C4C4C;
+}
+.Latest .main .zy-cenimg {
+  margin: 5px 0 40px 0;
+}
+.Latest .main .zy-new {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+}
+.Latest .main .zy-new .zy-num1 {
+  width: 30%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  position: relative;
+}
+.Latest .main .zy-new .zy-num1 .zy-numTop {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.Latest .main .zy-new .zy-num1 .zy-numTop img {
+  width: 100%;
+}
+.Latest .main .zy-new .zy-num1 .zy-numTop p:nth-child(2) {
+  margin: 20px 0 20px 0;
+  font-size: 16px;
+}
+.Latest .main .zy-new .zy-num1 .zy-numTop p:nth-child(2) span {
+  color: #BE7D5C;
+}
+.Latest .main .zy-new .zy-num1 .p2 {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  box-sizing: border-box;
+  color: #777;
+}
+.Latest .main .zy-new .zy-num1 .p2 .span {
+  width: 49%;
+  display: inline-block;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+.Latest .main .zy-new .zy-num1 .p2 .span span {
+  font-size: 14px;
+}
+.Latest .main .zy-new .zy-num1 .p2 .span a:hover {
+  text-decoration: underline;
+}
+.Latest .main .zy-new .zy-num1 .zy-bomdiv {
+  width: 100%;
+}
+.Latest .main .zy-new .zy-num1 .zy-bomdiv p {
+  padding: 20px;
+  color: #777;
+}
+.Latest .main .zy-new .zy-num1 .zy-bomdiv h4 a {
+  color: #B17153;
+}
+.Latest .main .zy-new .zy-num1 .zy-bomdiv h4 a:hover {
+  color: #777;
+}
+.Latest .main .zy-new .zy-num1 .zy-piao {
+  width: 120px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #fff;
+  position: absolute;
+  top: 4%;
+  left: 7%;
+}
+.Latest .main .zy-new .zy-num1 .zy-piao span {
+  font-size: 14px;
+}
+.Latest .main .zy-new .zy-num1 .zy-piao a {
+  color: #666;
+}
+.Latest .main .zy-new .zy-num1 .zy-piao a:hover {
+  text-decoration: underline;
+}
+@media only screen and (max-width: 1024px) {
+  .zy-top .main {
+    width: 100%;
+  }
+  .zy-top .main h3 {
+    margin-top: 30px;
+  }
+  .zy-top .main .zy-content .zy-left {
+    width: 90%;
+    margin: 0 auto 20px;
+    float: none;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .zy-top .main .zy-content .zy-left .zy-imgbommom div {
+    width: 24%;
+  }
+  .zy-top .main .zy-content .zy-right {
+    width: 90%;
+    margin: 0 auto 20px;
+    float: none;
+    box-sizing: border-box;
+  }
+  .zy-peop .main {
+    width: 100%;
+  }
+  .Latest {
+    width: 100%;
+  }
+  .Latest .main {
+    width: 100%;
+  }
+  .Latest .main .zy-new .zy-num1 {
+    width: 48%;
+  }
+}
+@media only screen and (max-width: 680px) and (min-width: 320px) {
+  .zy-top .main .zy-content {
+    position: relative;
+    margin-bottom: 200px;
+  }
+  .zy-top .main .zy-content .zy-left .zy-imgbommom div {
+    width: 24%;
+  }
+  .zy-top .main .zy-content .zy-right .zy-conpos {
+    display: none;
+  }
+  .zy-top .main .zy-content .zy-right .zy-rigpos {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .zy-top .main .zy-content .zy-zjconpos {
+    width: 60%;
+    height: 67px;
+    position: absolute;
+    bottom: -100px;
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .zy-top .main .zy-content .zy-zjconpos div {
+    width: 30%;
+    border: 1px solid #8b432D;
+    border-collapse: collapse;
+  }
+  .zy-top .main .zy-content .zy-zjconpos div P:nth-child(1) {
+    color: black;
+    font-weight: 700;
+    margin: 10px 0 5px 0;
+  }
+  .zy-top .main .zy-content .zy-zjconpos div P:nth-child(2) {
+    color: #B57C5E;
+    font-weight: 700;
+  }
+  .zy-peop {
+    overflow: hidden;
+  }
+  .zy-peop .main {
+    width: 100%;
+  }
+  .zy-peop .main .zy-window .zy-carousel .zy-item {
+    padding: 0 20px;
+  }
+  .zy-peop .main .zy-window .zy-carousel .zy-item img {
+    display: none;
+  }
+  .Latest {
+    width: 100%;
+  }
+  .Latest .main h2 {
+    margin-top: 20px;
+  }
+  .Latest .main .zy-new .zy-num1 {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
